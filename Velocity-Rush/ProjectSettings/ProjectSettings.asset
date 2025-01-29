@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 1a3c2f987ebd8804ca3b768ebed85bf7
+  productGUID: 377837ffb868d284384b22d6f2f805d6
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -754,11 +754,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 5a074589-b56e-4294-8d4c-5817666d3729
+  cloudProjectId: 942b5fb4-25d0-4b5f-9c60-ac943a096b02
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Velocity-Rush
-  organizationId: unity_888566a31d219981b4d2
+  organizationId: lidagraciela
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
